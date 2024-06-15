@@ -1,0 +1,145 @@
+.hp-image {
+    height: 200px;
+    width: 270px;
+    padding: 6px;
+}
+
+.hp-heading {
+    color: #183b56;
+    font-size: 32px;
+    font-family: Bree Serif;
+    font-weight: bold;
+}
+
+.hp-para {
+    color: #44688e;
+    font-size: 26px;
+    font-family: Bree Serif;
+}
+
+.project-card {
+    padding: 5px;
+    margin: 2px;
+    margin-right: 5px;
+}
+
+.card-image {
+    height: 120px;
+    width: 180px;
+}
+
+.bg-containerA {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-containerA {
+    background-color: #f6c56e;
+    color: #323f4b;
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card-headingA {
+    color: #323f4b;
+    font-family: Bree Serif;
+    font-size: 30px;
+}
+
+.card-paraA {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.button-textA {
+    font-family: Roboto;
+}
+
+.bg-containerB {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-containerB {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 12px;
+}
+
+.card-headingB {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-size: 20px;
+}
+
+.card-paraB {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bg-containerC {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-containerC {
+    background-color: #ffffff;
+    font-family: Roboto;
+    padding: 14px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-headingC {
+    color: #323f4b;
+    font-size: 12px;
+}
+
+.p1C {
+    color: #7b8794;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.p2C {
+    color: #7b8794;
+    font-size: 12px;
+}
+
+.buttonC {
+    color: #ffffff;
+    border-radius: 12px;
+}
+
+.bg-containerD {
+    padding: 5px;
+    font-family: Roboto;
+}
+
+.headingD {
+    color: #323f4b;
+    font-size: 22px;
+}
+
+.video-containerD {
+    margin: 5px;
+    border-radius: 6px;
+}
+
+.para1D {
+    color: #9aa5b1;
+    font-size: 16px;
+}
+
+.marginD {
+    margin: 5px;
+}
